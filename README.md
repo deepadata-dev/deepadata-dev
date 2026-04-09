@@ -1,16 +1,20 @@
-## Hi there 👋
+## Jason Harvey
 
-<!--
-**deepadata-dev/deepadata-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [DeepaData](https://deepadata.com) — 
+building the significance layer for AI memory.
 
-Here are some ideas to get you started:
+Most AI memory captures what was said.
+EDM captures what mattered — encoded at capture time,
+before retrieval ever happens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When a query asks "when was I happiest?" or "why do I 
+resist change?", no retrieval channel can answer it 
+from raw text. The answer was never there. 
+It lives in significance fields encoded at capture.
+
+**Building:**
+- [emotionaldatamodel.org](https://emotionaldatamodel.org) — open standard (MIT)
+- [deepadata.com](https://deepadata.com) — significance layer API
+
+**Active orgs:** [@deepadata](https://github.com/deepadata) · 
+[@emotional-data-model](https://github.com/emotional-data-model)
